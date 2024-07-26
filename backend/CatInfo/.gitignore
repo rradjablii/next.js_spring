@@ -1,0 +1,25 @@
+
+# Java / Spring Boot
+target/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+.mvn/
+!**/src/main/**/maven-compiler-plugin/target/
+!**/src/test/**/maven-compiler-plugin/target/
+!pom.xml
+!.gitignore
+
+# IDEs and Editors
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
